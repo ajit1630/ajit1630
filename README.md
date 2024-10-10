@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Ajit Kale
-- 👀 I’m interested in Web Development & Problem Solving
-- 🌱 I’m currently exploring Machine Learning 
-- 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me ajitkale2406@gmail.com
 
+👋 Hi, I’m Ajit Kale
+🚀 Passionate about Web Development and Problem Solving
+🌱 Currently diving into Machine Learning
+💼 Proficient in C++, Java, SQL, UI/UX Design, and Data Structures & Algorithms (DSA)
+🤝 Looking to collaborate on exciting Data Science projects
+📧 Reach me at ajitkale2406@gmail.com
 
 <!---
 ajit1630/ajit1630 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
