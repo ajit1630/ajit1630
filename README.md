@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajit1630
+- 👋 Hi, I’m Ajit Kale
 - 👀 I’m interested in Web Development & Problem Solving
 - 🌱 I’m currently exploring Machine Learning 
 - 💞️ I’m looking to collaborate on Data Science
