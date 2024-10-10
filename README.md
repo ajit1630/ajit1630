@@ -1,6 +1,6 @@
 
--👋 Hi, I’m Ajit Kale
--🚀 Passionate about Web Development and Problem Solving
+*👋 Hi, I’m Ajit Kale
+*🚀 Passionate about Web Development and Problem Solving
 -🌱 Currently diving into Machine Learning
 -💼 Proficient in C++, Java, SQL, UI/UX Design, and Data Structures & Algorithms (DSA)
 -🤝 Looking to collaborate on exciting Data Science projects
